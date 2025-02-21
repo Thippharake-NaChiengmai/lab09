@@ -12,4 +12,6 @@ already login
 ![image](https://github.com/user-attachments/assets/b0589a71-8f5f-46ff-a1ed-d54f186a118a)
 this is my instance!!!
 ![image](https://github.com/user-attachments/assets/b1c0511e-c903-4983-9e3c-01a5ddd26176)
+- 2.4 to 2.6
+![image](https://github.com/user-attachments/assets/45182a01-816c-4fa3-a985-0cb865b410ef)
 
