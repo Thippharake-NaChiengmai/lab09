@@ -7,7 +7,7 @@ create my docker account
 ![image](https://github.com/user-attachments/assets/adecec4c-a6a0-4a1c-92ed-7d04b6aba851)
 already login
 ![image](https://github.com/user-attachments/assets/2f0f9d49-5559-46ff-9d10-8e22de2e8c2e)
-- 1.9
+- 1.9 checkpoint1!!!
 ![image](https://github.com/user-attachments/assets/af45e8c8-c9d1-4c16-a7bb-4af4d9d084dd)
 ![image](https://github.com/user-attachments/assets/b0589a71-8f5f-46ff-a1ed-d54f186a118a)
 this is my instance!!!
